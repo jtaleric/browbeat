@@ -1,3 +1,6 @@
+# Note
+This project has been migrated to the OpenStack namespace on Browbeat becoming an OpenStack Big Tent Project. All current development takes places at
+https://github.com/openstack/browbeat, which is the repostory you would want to clone. This repostory is no longer maintained.
 Table of Contents
 =================
 
